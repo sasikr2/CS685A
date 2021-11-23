@@ -1,9 +1,7 @@
-#SHASHI KUMAR
-#ROll No: 180700
-#All final output csv files are in generated_files directory
-# All scripts and required dataset are in the the SCRIPTS directory
+All final output csv files are in generated_files directory
+All scripts and required dataset are in the the SCRIPTS directory
 
-#Following libraries required to run code:
+Following libraries required to run code:
 pip install pandas warnings os numpy statsmodels
 #statsmodels for statstical testing module
 #also requirements.txt is inlcuded in zip
