@@ -1,0 +1,37 @@
+,states,literacy-group-males,ratio-males,literacy-group-females,ratio-females
+0,INDIA,Matric/Secondary but below graduate,0.2629845170994173,Graduate and above,0.8463050496071405
+1,JAMMU & KASHMIR,Primary but below middle,0.4076040427400794,Graduate and above,1.7448244450165356
+2,HIMACHAL PRADESH,Graduate and above,0.15306731856476247,Matric/Secondary but below graduate,0.3859921689971159
+3,PUNJAB,Primary but below middle,0.2355819558925728,Matric/Secondary but below graduate,2.3567197215522784
+4,CHANDIGARH,Primary but below middle,0.20756331047593182,Matric/Secondary but below graduate,2.194038940666236
+5,UTTARAKHAND,Graduate and above,0.2608130170211769,Matric/Secondary but below graduate,0.17719973538554276
+6,HARYANA,Graduate and above,0.30055612531272413,Matric/Secondary but below graduate,0.44073408308089573
+7,NCT OF DELHI,Matric/Secondary but below graduate,0.5374055577092751,Graduate and above,0.5397488443961397
+8,RAJASTHAN,Graduate and above,0.1339903664331213,Matric/Secondary but below graduate,0.2632139487122558
+9,UTTAR PRADESH,Graduate and above,0.21405682975188056,Graduate and above,0.18618657706750996
+10,BIHAR,Literate but below primary,0.16694625523270754,Graduate and above,0.35617822029842955
+11,SIKKIM,Primary but below middle,0.3276522405208732,Matric/Secondary but below graduate,2.5287100870827284
+12,ARUNACHAL PRADESH,Literate but below primary,0.3817295129972519,Matric/Secondary but below graduate,2.525845638046249
+13,NAGALAND,Primary but below middle,0.41555753602964457,Matric/Secondary but below graduate,2.1782570000684602
+14,MANIPUR,Primary but below middle,0.3334910151677795,Graduate and above,1.6114117828977887
+15,MIZORAM,Matric/Secondary but below graduate,0.7100681302043906,Graduate and above,0.615308052154872
+16,TRIPURA,Matric/Secondary but below graduate,0.3949027783687189,Graduate and above,0.9473074342867598
+17,MEGHALAYA,Matric/Secondary but below graduate,0.503081690724975,Matric/Secondary but below graduate,1.2172536172536172
+18,ASSAM,Illiterate,0.31744427836130307,Matric/Secondary but below graduate,2.194724796691679
+19,WEST BENGAL,Matric/Secondary but below graduate,0.26712879518683996,Graduate and above,0.6792508268435506
+20,JHARKHAND,Literate but below primary,0.2663118859816704,Graduate and above,0.6318970028628733
+21,ODISHA,Illiterate,0.19382339274033047,Graduate and above,1.9527585533773066
+22,CHHATTISGARH,Matric/Secondary but below graduate,0.17064483144208556,Graduate and above,0.30911521741547426
+23,MADHYA PRADESH,Graduate and above,0.20393568998896705,Graduate and above,0.3078029317003435
+24,GUJARAT,Primary but below middle,0.36806865115373655,Graduate and above,1.703965603567546
+25,DAMAN & DIU,Primary but below middle,0.2636670761670762,Graduate and above,1.604066712360064
+26,DADRA & NAGAR HAVELI,Illiterate,0.39844649583325203,Matric/Secondary but below graduate,1.9880732058400163
+27,MAHARASHTRA,Primary but below middle,0.41243134703059847,Graduate and above,1.6126075571597709
+28,ANDHRA PRADESH,Matric/Secondary but below graduate,0.24532460219342633,Graduate and above,1.0632246055436003
+29,KARNATAKA,Matric/Secondary but below graduate,0.4227577962880308,Graduate and above,1.2730157137177551
+30,GOA,Literate but below primary,0.4740425109010274,Matric/Secondary but below graduate,3.5544415021665863
+31,LAKSHADWEEP,Middle but below matric/secondary,0.07537688442211055,Matric/Secondary but below graduate,1.9318271898533492
+32,KERALA,Matric/Secondary but below graduate,0.500402933862184,Matric/Secondary but below graduate,0.7720077744764738
+33,TAMIL NADU,Matric/Secondary but below graduate,0.5987046128319047,Graduate and above,0.34992644543277457
+34,PUDUCHERRY,Matric/Secondary but below graduate,0.6793353770413338,Graduate and above,0.4817657121844373
+35,ANDAMAN & NICOBAR ISLANDS,Matric/Secondary but below graduate,0.5052009365524124,Matric/Secondary but below graduate,1.6123563067555509
